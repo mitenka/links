@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'ru' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><path d='M8 3h16v26l-8-6-8 6z' fill='%23c2410c'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Onest:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #faf8f5;
+      --text: #1c1917;
+      --muted: #a8a29e;
+      --line: #e7e5e4;
+      --accent: #c2410c;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #161412;
+        --text: #e7e5e4;
+        --muted: #78716c;
+        --line: #292524;
+        --accent: #fb923c;
+      }
+    }
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font: 400 17px/1.5 "Onest", system-ui, -apple-system, sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+    main {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 56px 20px 80px;
+    }
+    h1 {
+      margin: 0 0 40px;
+      font-size: 28px;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+    }
+    h2 {
+      margin: 36px 0 10px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    @media (min-width: 560px) {
+      ul { columns: 2; column-gap: 32px; }
+    }
+    li { break-inside: avoid; }
+    a {
+      display: inline-block;
+      padding: 5px 0;
+      color: inherit;
+      text-decoration: none;
+      transition: color .15s;
+    }
+    a:hover, a:focus-visible { color: var(--accent); outline: none; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>{{ page.title | default: site.title }}</h1>
+    {{ content }}
+  </main>
+</body>
+</html>
