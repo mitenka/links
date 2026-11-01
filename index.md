@@ -33,3 +33,4 @@ title: Закладки
 - [кПТСР](https://club.olgareinholdt.ru/wpm/rabota-s-kptsr/instruktsiya-po-primeneniyu-paketa-dlya-prorabotki-kptsr-i-detskih-travm/)
 - [Полка](https://polka.academy/)
 - [Радиоспектакли](https://rutracker.org/forum/viewforum.php?f=574)
+- [Stellan Flap Top Backpack Original Series](https://ucon-acrobatics.com/en-ie/products/stellan-flap-top-backpack-original-series?variant=53248975831307)
