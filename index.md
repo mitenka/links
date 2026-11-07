@@ -37,8 +37,13 @@ title: Закладки
 
 ## Разобрать
 
-- [Claude artifact](https://claude.ai/artifact/Nswbu8iHTCyuocVqvKjjdX#e229fa6a-6b3c.m645jbnrf4k.58)
-- [Античность — ликбез](https://arzamas.academy/likbez/antiquity)
-- [Moodle Cinabarit](https://moodle.cinabarit.rs/)
-- [Лекции Лотмана](https://arzamas.academy/special/lotman-lectures)
-- [Claude chat](https://claude.ai/chat/55c7738d-9132-4aa6-9852-2a86cfbe03a2)
+- [Материал в Claude](https://claude.ai/artifact/Nswbu8iHTCyuocVqvKjjdX#e229fa6a-6b3c.m645jbnrf4k.58)
+- [Арзамас: ликбез об античности](https://arzamas.academy/likbez/antiquity)
+- [Платформа Moodle Cinabarit](https://moodle.cinabarit.rs/)
+- [Лекции Юрия Лотмана](https://arzamas.academy/special/lotman-lectures)
+- [Чат в Claude](https://claude.ai/chat/55c7738d-9132-4aa6-9852-2a86cfbe03a2)
+- [Udemy: SQL и PostgreSQL](https://www.udemy.com/course/sql-and-postgresql/learn/lecture/22801753#overview)
+- [YouTube-видео (wPTsAUcVHjQ)](https://www.youtube.com/watch?v=wPTsAUcVHjQ)
+- [YouTube-видео (uizaxuzgEAk)](https://www.youtube.com/watch?v=uizaxuzgEAk)
+- [YouTube-видео (eXofJlgk3I4)](https://www.youtube.com/watch?v=eXofJlgk3I4)
+- [YouTube-видео (tN30I9_s-A8)](https://www.youtube.com/watch?v=tN30I9_s-A8)
