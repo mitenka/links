@@ -34,3 +34,11 @@ title: Закладки
 - [Полка](https://polka.academy/)
 - [Радиоспектакли](https://rutracker.org/forum/viewforum.php?f=574)
 - [Stellan backpack](https://ucon-acrobatics.com/en-ie/products/stellan-flap-top-backpack-original-series?variant=53248975831307)
+
+## Разобрать
+
+- [Claude artifact](https://claude.ai/artifact/Nswbu8iHTCyuocVqvKjjdX#e229fa6a-6b3c.m645jbnrf4k.58)
+- [Античность — ликбез](https://arzamas.academy/likbez/antiquity)
+- [Moodle Cinabarit](https://moodle.cinabarit.rs/)
+- [Лекции Лотмана](https://arzamas.academy/special/lotman-lectures)
+- [Claude chat](https://claude.ai/chat/55c7738d-9132-4aa6-9852-2a86cfbe03a2)
