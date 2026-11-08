@@ -47,4 +47,6 @@ title: Закладки
 - [Shake It Off](https://www.youtube.com/watch?v=uizaxuzgEAk)
 - [Blank Space](https://www.youtube.com/watch?v=eXofJlgk3I4)
 - [Style](https://www.youtube.com/watch?v=tN30I9_s-A8)
+- [YouTube: плейлист](https://www.youtube.com/playlist?list=PL40OiiJw6-gd4WWUG7HOJWGSwiPnkeMKZ)
+- [YouTube: видео](https://www.youtube.com/watch?v=rhPdfVTA2r0)
 - [Google Doc](https://docs.google.com/document/d/1Zdz2SxuNvxN8deFmrmi6F5PCEDVTlnfh7yL9WBoemRQ/edit?pli=1&tab=t.0)
