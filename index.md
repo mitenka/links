@@ -35,6 +35,12 @@ title: Закладки
 - [Радиоспектакли](https://rutracker.org/forum/viewforum.php?f=574)
 - [Stellan backpack](https://ucon-acrobatics.com/en-ie/products/stellan-flap-top-backpack-original-series?variant=53248975831307)
 
+## Музыка
+
+- [Liima — 1982](https://liima.bandcamp.com/album/1982)
+- [Jasam svet mirko — Tunguzija](https://jasamsvemirko.bandcamp.com/album/tunguzija)
+- [Artan Lili](https://artanlili.bandcamp.com/)
+
 ## Разобрать
 
 - [Claude: заметка](https://claude.ai/artifact/Nswbu8iHTCyuocVqvKjjdX#e229fa6a-6b3c.m645jbnrf4k.58)
